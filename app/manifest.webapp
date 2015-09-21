@@ -1,0 +1,10 @@
+{
+  "name": "asdf",
+  "launch_path": "/index.html",
+  "type": "privileged",
+  "developer": {
+    "name": "gitdeveloper",
+    "url": "giturl"
+  },
+  "version": "githash"
+}

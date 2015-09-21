@@ -1,0 +1,32 @@
+{
+  "name": "FxOS-Boilerplate",
+  "version": "0.0.1",
+  "description": "Application Boilerplate for Firefox OS",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcoloma/fxos-boilerplate.git"
+  },
+  "author": "Daniel Coloma",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/dcoloma/fxos-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ferjm/firefoxos-loop-client",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-copy": "~0.7.0",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-connect": "~0.8.0",
+    "grunt-gitinfo": "~0.1.7",
+    "grunt-contrib-compress": "~0.12.0",
+    "node-firefox-connect": "1.0.0",
+    "firefox-client": "0.3.0",
+    "node-firefox-find-app": "1.0.0",
+    "node-firefox-launch-app": "1.0.1",
+    "node-firefox-install-app": "1.0.0",
+    "node-firefox-stop-app": "1.0.0",
+    "promise": "6.1.0",
+    "adb.js": "git://github.com/arcturus/adb.js.git#master"
+  }
+}
